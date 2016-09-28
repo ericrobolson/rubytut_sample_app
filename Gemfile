@@ -14,6 +14,8 @@ group :development, :test do
 	gem 'sqlite3'
 	gem 'byebug'
 	gem 'web-console'
+	gem 'spring'
+	gem 'tzinfo-data'
 end
 
 group :test do
